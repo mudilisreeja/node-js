@@ -1,0 +1,18 @@
+{
+  "name": "node_js_course",
+  "version": "1.0.0",
+  "description": "Node js learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node http2",
+    "dev":"nodemon http2"
+  },
+  "author": "sreeja",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
